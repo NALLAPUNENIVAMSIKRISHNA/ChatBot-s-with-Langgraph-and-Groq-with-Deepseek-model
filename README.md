@@ -1,6 +1,7 @@
 #  LangGraph ChatBot using Groq LLM
 
 Demo Video Link :- https://drive.google.com/file/d/1Ndoi9NqcybCTJbivqYuDbKpfc30mukS4/view?usp=sharing
+Colab Code Link :- https://colab.research.google.com/drive/12rRo8JfVr7m1pdNcP01l1nZt8kPZ6pCL?usp=sharing
 
 This project is a simple chatbot built using [LangGraph](https://github.com/langchain-ai/langgraph), [LangChain](https://www.langchain.com/), and [Groq's LLM API](https://console.groq.com/). It processes user input in real-time and responds using a powerful large language model (`deepseek-r1-distill-qwen-32b`).
 
